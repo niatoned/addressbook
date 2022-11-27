@@ -9,7 +9,7 @@
                     name: maven
           - name: "clone the addressbook project"
             git:
-                    repo: 'https://github.com/upshiftnow/addressbook'
+                    repo: 'https://github.com/niatoned/addressbook'
                     dest: "{{ gitdir }}"
                     version: "master"
           - name: "compile the addressbook project"
