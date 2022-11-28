@@ -1,2 +1,2 @@
-webserver ansible_host=ip-172-31-63-210
+webserver ansible_host=labuser@ip-172-31-63-210
 local ansible_connection=local
